@@ -1,0 +1,44 @@
+9000020534|6352|12636|25|anticongelante|1
+9000011968|9871|15530|6|Eletrodomésticos|1
+9000023427|15602|429|19|amianto|1
+9000028292|13129|13036|8|asfalto|1
+9000021264|4877|3845|0|Óleo de Automotive & Filtros|1
+9000020962|17456|17474|17|reatores|1
+9000023471|10656|8032|8|baterias|1
+9000021664|16957|1886|11|Materiais de Construção|1
+9000018505|15946|14434|46|cartão|1
+9000028462|1374|1268|3|Tapete e Padding|1
+9000023399|3939|10730|1|celulares|1
+9000020635|8060|6117|24|Compact Discs, disquetes, fitas de vídeo e|1
+9000024145|3192|15837|17|Computadores, Eletrônica e equipamento de escritório|1
+9000020164|1668|12540|47|Asfalto Concreto Betuminoso &|1
+9000024183|8510|14140|2|Resíduos de Construção e Demolição Debris|1
+9000017486|6743|9884|44|O solo contaminado|1
+9000017959|7874|17702|9|Serviço de destruição de documentos|1
+9000024355|3046|9811|40|Bateria e baldes|1
+9000012904|11236|415|20|Equipamentos Eletrônicos|1
+9000026944|8844|2291|10|extintores|1
+9000023404|9684|2513|5|Fluorescente, High Intensity Discharge & Lâmpadas de néon e Reatores|1
+9000027933|14569|231|22|Espuma Embalagem Peanuts|1
+9000019952|1811|11230|32|alimento|1
+9000016116|8023|5085|7|vidro|1
+9000021386|12048|15649|24|Graxa e óleo de cozinha|1
+9000012867|5162|15298|30|resíduos Perigosos|1
+9000027152|13671|12534|40|Resíduos Sólidos Industriais|1
+9000011462|8532|12522|47|resíduos infectantes|1
+9000014646|2589|12021|26|cartuchos|1
+9000017372|10703|939|30|Paisagismo & árvore de Resíduos|1
+9000023872|17817|7340|39|Fornecimento de linho|1
+9000015614|8940|10118|31|Colchões e molas|1
+9000011996|2573|11283|11|Lixo Hospitalar|1
+9000017816|15418|10219|47|Mercúrio e produtos que contenham mercúrio|1
+9000014422|4068|11406|4|metal|1
+9000022261|7449|5295|42|negativos|1
+9000027778|14874|3607|7|Móveis para Escritório e Equipamentos|1
+9000026894|14724|1438|5|Embalagem Peanuts Espuma,|1
+9000014441|6406|7181|11|Suprimentos Tintas & Pintura|1
+9000016800|12819|41|22|paletes|1
+9000023458|10851|14471|23|Papel e Papelão|1
+9000024077|3397|8018|12|Toalhas de papel|1
+9000015281|7725|16904|22|pesticidas|1
+9000027231|13844|12689|11|filme fotográfico|1
