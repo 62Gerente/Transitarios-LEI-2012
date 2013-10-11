@@ -10,13 +10,15 @@ A primeira fase do projecto foi desenvolvida em C.
 
 Principais objectivos:
 
-* Adequação das estruturas de dados utilizadas à representação da in- formação que o problema aborda.* Reutilização de algoritmos e definições aprendidas nas UC's de PI e AC.
-* Escrita de código genérico, modular e reutilizável, que possa ser utilizado noutros projectos futuros.* Utilização de mecanismos de serialização dos dados, com o intuito de salvaguarda do estado das aplicações.
+* Adequação das estruturas de dados utilizadas à representação da in- formação que o problema aborda.
+* Reutilização de algoritmos e definições aprendidas nas UC's de PI e AC.
+* Escrita de código genérico, modular e reutilizável, que possa ser utilizado noutros projectos futuros.
+* Utilização de mecanismos de serialização dos dados, com o intuito de salvaguarda do estado das aplicações.
 
 Ficheiros:
 
 * Enunciado: [Link](https://dl.dropboxusercontent.com/u/13351850/Github/Relatorios/projectoLI3_2011_12.pdf)
-* Código: [Link](/c)
+* Código: [Link](/C)
 * Relatório: [Link](https://dl.dropboxusercontent.com/u/13351850/Github/Relatorios/relatorio-tl-c.pdf)
 
 #### Segunda Fase - Java
